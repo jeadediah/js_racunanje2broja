@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+form {
+    margin: 150px auto;
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+}
+form input{
+    background: greenyellow;
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+#rezultat {
+    padding: 10px;
+    width: 250px;
+    height: 70px;
+    background: greenyellow;
+    box-shadow: 2px 2px 5px black;
+    margin: 0 auto;
+    color: black;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: bolder;
+    
+}
+
+form button{
+   width: 250px;
+    height: 50px;
+    border: 3px solid chartreuse;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
